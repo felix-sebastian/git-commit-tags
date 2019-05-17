@@ -1,0 +1,19 @@
+{
+  "name": "git-commit-tags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felix-sebastian/git-commit-tags.git"
+  },
+  "author": "Felix Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felix-sebastian/git-commit-tags/issues"
+  },
+  "homepage": "https://github.com/felix-sebastian/git-commit-tags#readme"
+}
